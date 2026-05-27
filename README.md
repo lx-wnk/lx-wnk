@@ -28,7 +28,7 @@ $ ls -la ~/currently/
 drwxr-xr-x  agent-infrastructure/   # context layers, dashboards, claude stuff
 drwxr-xr-x  shopware-6/             # day job, about ten years deep
 drwxr-xr-x  cli-tools/              # wib, dot-files, small sharp things for personal usage
--rw-r--r--  playbook.md             # 4-3 defense, cover-2 reads
+-rw-r--r--  playbook.md             # Heavy Right · 32 Iso-Zone G
 ```
 
 ---
@@ -55,12 +55,14 @@ drwxr-xr-x  cli-tools/              # wib, dot-files, small sharp things for per
 ### `~/.stats`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lx-wnk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=lx-wnk&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lx-wnk&theme=tokyonight" alt="stats"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=lx-wnk&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lx-wnk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=lx-wnk&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lx-wnk&theme=tokyonight&utcOffset=2" alt="productive time"/>
+</p>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=lx-wnk&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies"/>
 </p>
 
 ---
@@ -79,24 +81,43 @@ drwxr-xr-x  cli-tools/              # wib, dot-files, small sharp things for per
 <br/>
 
 ```text
-        ─── 4-3 OVER, COVER-2 ───
+  22 PERS · I-FORM · IZ WEAK + BACKSIDE G-PULL
 
-   WR        TE       RT  RG  C  LG  LT        WR
-    ●         ●        ●   ●  ●  ●   ●          ●
-                            ●  ← QB
-                            ●  ← RB
+  playside <---             |             ---> backside
 
-   CB    SS                              FS    CB
-    ●     ●                               ●     ●
-              DE   DT   DT   DE
-               ●    ●    ●    ●
-                    SAM MIKE WILL
-                     ●    ●    ●
+       TE   LT   LG   C    RG   RT   TE
+        o----o----o----o----o----o----o
+        |    |    |    |     \         \
+       seal  Z    Z    Z     PULL      hinge
+        DE   DE   DT   NT    (flat)    C-gap
 
-   reads: MIKE keys guard → run/pass.
-          safeties split, corners squeeze.
-          if QB pumps right → WILL bails to flat.
+                          \
+                           \   RG pulls flat,
+                            \  through playside A-gap,
+                             > leads on MIKE
+
+                   o   QB
+                   |   ride / decide
+                   v   fake naked boot weak
+                   o   FB  ->  lead A-gap, thump WILL
+                   |
+                   v
+                   o   HB  ->  press A-gap, ONE cut,
+                               follow RG's hip
+
+
+       WR (split weak)  o  --> stalk the CB
+
+  -- reads --------------------------------
+    vs Over, 1-high : hit it, numbers work
+    vs Under        : bounce off RG to B-gap
+    vs Bear / 46    : kill -> check outside zone
+    vs A-gap blitz  : RG picks up, cut behind FB
 ```
+
+Whiteboard call: **"Heavy Right · 32 Iso-Zone G · on 1"**.
+Translation for non-football people: big formation, RB is `32`, run scheme is
+inside zone with a pulling guard, snap on the first "hut".
 
 When I'm not in a terminal, I'm yelling this at teenagers in shoulder pads.
 
@@ -108,6 +129,8 @@ When I'm not in a terminal, I'm yelling this at teenagers in shoulder pads.
 
 <p>
   <a href="https://www.linkedin.com/in/lx-wnk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/lx-wnk?tab=followers"><img src="https://img.shields.io/github/followers/lx-wnk?style=for-the-badge&logo=github&label=followers&color=181717&labelColor=181717"/></a>
+  <a href="https://github.com/lx-wnk?tab=repositories"><img src="https://img.shields.io/github/stars/lx-wnk?style=for-the-badge&logo=github&label=stars&color=181717&labelColor=181717&affiliations=OWNER"/></a>
 </p>
 
 <!--
